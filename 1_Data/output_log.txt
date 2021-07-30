@@ -1,0 +1,21 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M (ID=0x1058)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+desktop: 1366x768 60Hz; virtual: 2806x1184 at -1440,-416
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\01-Hamid\project\Projects\+Fruits 1.1\+fruitsProject\1_Data\Managed\System.Core.dll (this message is harmless)
